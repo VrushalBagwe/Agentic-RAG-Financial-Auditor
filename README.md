@@ -1,6 +1,6 @@
 # 📈 Autonomous Financial & Regulatory Audit Engine (Agentic RAG)
 
-An autonomous, multi-agent financial auditing engine built with **Python**, **LangGraph**, and **Llama-3-70B**. The system dynamically routes complex investor queries across structured relational tables and unstructured transcript embeddings — including raw earnings call **audio**, transcribed on the fly — utilizing cyclic self-correction loops to eliminate LLM hallucinations.
+An autonomous, multi-agent financial auditing engine built with **Python**, **LangGraph**, and **Llama-3-70B**. The system dynamically routes complex investor queries across structured relational tables and unstructured transcript embeddings including raw earnings call **audio**, transcribed on the fly, utilizing cyclic self-correction loops to eliminate LLM hallucinations.
 
 ## 🏛️ Architecture & Tech Stack
 * **Orchestration:** LangGraph (Stateful, cyclic multi-agent workflow)
